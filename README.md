@@ -39,7 +39,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/hasansharif819/generate-qr-code.git
+## git clone https://github.com/hasansharif819/generate-qr-code.git
 cd generate-qr-code
 Install dependencies:
 
