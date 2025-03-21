@@ -1,4 +1,5 @@
 # 📱 QR Code Subscription Form
+## https://generate-qr-code-five.vercel.app
 
 ## This is a Next.js project that allows users to subscribe by entering their phone number, generating a QR code, and confirming their subscription by entering a confirmation code. The project is built using Tailwind CSS and Shadcn/ui for a beautiful and responsive UI.
 
