@@ -1,5 +1,6 @@
-📱 QR Code Subscription Form
-This is a Next.js project that allows users to subscribe by entering their phone number, generating a QR code, and confirming their subscription by entering a confirmation code. The project is built using Tailwind CSS and Shadcn/ui for a beautiful and responsive UI.
+# 📱 QR Code Subscription Form
+
+## This is a Next.js project that allows users to subscribe by entering their phone number, generating a QR code, and confirming their subscription by entering a confirmation code. The project is built using Tailwind CSS and Shadcn/ui for a beautiful and responsive UI.
 
 Features
 Phone Number Input: Users can enter their phone number.
